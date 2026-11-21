@@ -45,13 +45,14 @@ Instead of being explicitly programmed with rules to solve a problem, a machine 
 
 A couple of classic definitions are:
 
-> [Machine learning is the] field of study that gives computers the ability to learn without being explicitly programmed.
+> Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
 >
-> — Usually attributed to Arthur Samuel, who popularised the term *machine learning* in 1959; the sentence is a later paraphrase of his work
+> *— Usually attributed to Arthur Samuel, who popularised the term machine learning in 1959; the sentence is a later paraphrase of his work.*
 
 > A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
 >
-> — Tom Mitchell, 1997
+> *— Tom Mitchell, 1997*
+
 
 ### Deep Learning
 
